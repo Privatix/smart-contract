@@ -2,9 +2,9 @@
 
 Privatix Token Contact holds all PRIX tokens and compliant with the ERC20 standard.
 
-Privatix Token Contact is used for:
+Privatix Token Contract is used for:
 * Token exchange
-* Upgrade to new service contract
+* As upgrade path to new service contract
 
 ## Authors
 
